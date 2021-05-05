@@ -1,2 +1,3 @@
-# 2DGames-VST
-Games creating in Visual Studio (WinForms) for playing
+# List games (2D) C#
+
+
